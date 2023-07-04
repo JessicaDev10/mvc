@@ -1,0 +1,62 @@
+[
+   {
+      "nome": "Iguarias da Região",
+      "categoria": "Restaurante comida Nordestina",
+      "carrochef": "Feijoada",
+      "tipoPedido": "A Lá Carte",
+      "preços": "Apartir de R$ 24,99",
+      "Endereço": {
+         "Rua": "Boa Sorte 54",
+         "Bairro": "Felicidade",
+         "Cidade": "Gostoso/PE"
+      }
+   },
+   {
+      "nome": "Comedoria Italiana",
+      "categoria": "Restaurante comida Italiana",
+      "carrochef": "Penne ao molho branco",
+      "TipoPedido": "Drive thu",
+      "preços": "Apartir de R$ 22,99",
+      "endereço": {
+         "rua": "Alegria 47",
+         "Bairro": "Purpurina",
+         "cidade": "Caju/PE"
+      }
+   },
+   {
+      "nome": "Delicias de PE",
+      "categoria": "Restaurante Nordestino",
+      "carrochef": "Galinha Guisada",
+      "TipoPedido": "Self-Service",
+      "preços": "Apartir de R$ 30,99",
+      "endereço": {
+         "rua": "Tijolos 99",
+         "Bairro": "Extrovertido",
+         "cidade": "Delicata/PE"
+      }
+   },
+   {
+      "nome": "Sabor Tendência",
+      "categoria": "Restaurante comida Japônesa",
+      "carrochef": "Sushi",
+      "TipoPedido": "Drive thu",
+      "preços": "Apartir de R$ 40,00",
+      "endereço": {
+         "rua": "Top 88",
+         "Bairro": "Flor do Jardim",
+         "cidade": "Ada/PE"
+      }
+   },
+   {
+      "nome": "Irresístivel Sabor",
+      "categoria": "Restaurante comida Francesa",
+      "carrochef": "Tarte tatin",
+      "TipoPedido": "Drive thru",
+      "preços": "Apartir de R$ 60,00",
+      "endereço": {
+         "rua": "Conectados 79",
+         "Bairro": "Praia Grande",
+         "cidade": "Perfeito/PE"
+      }
+   },
+]

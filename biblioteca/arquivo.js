@@ -1,4 +1,4 @@
-import chalk from "chalk";
+import chalk from 'chalk';
 import fs from 'fs'
 
 function trataErro(erro) {
@@ -10,10 +10,10 @@ function pegaArquivo(caminhoDoArquivo) {
   fs.readFile(caminhoDoArquivo, encoding, (erro, texto) => {
     if (erro) {
         trataErro(erro);
-    }
-    console.log(chalk.blue(texto));
-  })
-}
+         }
+         console.log(chalk.blue(texto));
+      })
+  }
 
 pegaArquivo('./biblioteca/texto.md');
 
